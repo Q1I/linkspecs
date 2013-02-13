@@ -1,0 +1,1016 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+    xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+    xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+    xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Guruntum_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Avikam_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Pongu_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Maninka_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Hwana_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Karagas_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Liberia"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Tayart_Tamajeq_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Nigeria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Old_Irish"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Primitive_Irish"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Dazaga_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Nigeria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Nafaanra_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Ligbi_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Shelta"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Pennsylvania_German_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/India"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Baraba_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Liberia"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Nanai_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Liberia"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Defaka_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Deno_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Berom_people"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Ogba_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Mossi_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Berom_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Ikwerre_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Nupe_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Efik_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Kanuri_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Dan_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Epie_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Krumen_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Tiv_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Mafa_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Aringa_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Bulgaria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.10714285714285676)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Nigerian_Pidgin"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Ngizim_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Degema_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Northern_Ireland_Sign_Language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Jara_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Lufu_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Eleme_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Isoko_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Wom_language_%28Nigeria%29"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Anyin_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Iyayu_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Jarawa_language_%28Nigeria%29"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Buduma_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Kurama_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Soninke_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Bura-Pabir_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Pular_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Guinea-Bissau"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.4871794871794878)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Oring_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Asu_language_%28Nigeria%29"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Tera_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Latgalian_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Slovenia"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.10714285714285676)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Latgalian_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Liberia"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Miami-Illinois_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/India"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Cori_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Tuareg_languages"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Nigeria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Voro_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Fula_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Bamum_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Ibibio_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Mandinka_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Bade_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Basa_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Jimi_language_%28Nigeria%29"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Guro_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Libyan_Arabic"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Nigeria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Karekare_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Yoruba_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Shiki_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Niger"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Susu_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Guinea-Bissau"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.4871794871794878)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Zarma_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Nigeria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Guanche_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cayman_Islands"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.26739926739926656)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Icelandic_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Ireland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Norman_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Syriac_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Syria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Akkadian_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Syria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Slovene_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Syria"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.4444444444444452)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Middle_English"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Old_Norse"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Old_Norse"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Finland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Danish_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Ireland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Bambara_language"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Cote_dIvoire"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Afrikaans"></entity1>
+          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/factbook/resource/Iceland"></entity2>
+        <relation>
+          http://dbpedia.org/ontology/spokenIn
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+</Alignment>
+</rdf:RDF>

@@ -1,0 +1,824 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+    xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+    xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+    xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Ravenea"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Common_Raven#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Desert_Warbler"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Eurasian_Reed_Warbler#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.24603174603174516)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Barking_Owl"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Barn_Owl#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0909090909090915)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Merelina"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Merlin_(bird)#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.16666666666666607)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/King_Bird-of-paradise"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/King_Bird_of_Paradise#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.3650793650793639)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Blue_Bird-of-paradise"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Blue_Bird_of_Paradise#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.3650793650793639)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Platyops"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Platypus#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.16666666666666607)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Syrian_Elephant"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Asian_Elephant#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.06105006105006083)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Spectacled_Weaver"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Spectacled_Bear#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.18954248366013005)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Spectacled_Tern"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Spectacled_Bear#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.11111111111111072)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Mountain_Barbet"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Mountain_Hare#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.07692307692307665)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Darwin%27s_fox"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Darwin's_Frog#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Bostrichus"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Ostrich#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Maned_Owl"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Maned_Wolf#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.2962962962962957)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Maillardia"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Mallard#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Robinia"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/European_Robin#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/California_mussel"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/California_Mouse#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.39950980392156843)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Smooth_skate"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Coronella_austriaca#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.1414141414141401)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Red-billed_Partridge"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Red-legged_Partridge#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Spectacled_Barwing"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Spectacled_Bear#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.037037037037037646)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Western_Corella"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Western_Gorilla#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.11111111111111072)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Merzling"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Merlin_(bird)#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.16666666666666607)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Gray_wolf"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Gray_Wolf#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.2592592592592592)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Magnificent_Riflebird"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Magnificent_Frigatebird#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.23982056590752143)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Sand_lizardfish"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Sand_Lizard#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.11111111111111072)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Striped_Kingfisher"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Pied_Kingfisher#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.22222222222222143)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Raggiana_Bird-of-paradise"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Raggiana_Bird_of_Paradise#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.46666666666666645)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Dusky_Lark"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Skylark#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.46666666666666645)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Baikal_Teal"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Baikal_Seal#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.39393939393939437)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/White-collared_Manakin"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Wire-tailed_Manakin#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.03331561226297963)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/South_American_fox"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/South_American_Gray_Fox#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.2753623188405797)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Desert_box_turtle"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Terrapene_carolina#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.22521786492374574)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Brown_Barbet"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Brown_Bear#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.11111111111111072)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Syrian_wild_ass"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Onager#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.06105006105006083)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Platynus"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Platypus#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.16666666666666607)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Common_toadfish"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Common_Toad#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.11111111111111072)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Puffinus"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Atlantic_Puffin#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.16666666666666607)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/African_Wild_Ass"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Onager#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.13690476190476253)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Black_Mamo"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Black_mamba#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.060606060606060996)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Common_Nase"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Harbor_Seal#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.060606060606060996)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Mary%27s_frog"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Marsh_Frog#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.060606060606060996)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Stenocharta"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/European_Stonechat#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.02356902356902335)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Mountain_barbel"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Mountain_Hare#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.07692307692307665)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Sunflower_seastar"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Sunflower_starfish#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.17366946778711423)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Leopardus"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Leopard#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.2592592592592592)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Black_carp"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Blackcap#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.33333333333333226)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Golden_algae"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Golden_Eagle#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.1414141414141401)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Black-throated_Hermit"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Black-throated_Loon#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.005291005291006012)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Superb_Bird-of-paradise"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Superb_Bird_of_Paradise#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.4202898550724644)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Black_grouper"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Black_Grouse#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20940170940170866)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Giraffa"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Giraffe#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.04761904761904745)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Short-eared_dog"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Short-eared_Owl#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.11111111111111072)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Stone-curlew"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Eurasian_Stone-curlew#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.444444444444443)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Platypalpus"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Platypus#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0909090909090915)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Grey_Teal"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Gray_Seal#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.2592592592592592)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Long-beaked_common_dolphin"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Short-beaked_Common_Dolphin#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.12155745489078718)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Giraffidae"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Giraffe#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/White-tailed_Eagle"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/White-tailed_Eagle#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.20875420875420936)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Syrian_Wild_Ass"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Onager#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.06105006105006083)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Arctic_skate"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Arctic_Skua#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.1414141414141401)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Tiger_Shrike"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Tiger_shark#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.1414141414141401)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Merlinia"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Merlin_(bird)#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.16666666666666607)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Blue_Hamlet"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Blue_Whale#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.060606060606060996)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Mountain_Shrike"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Mountain_Hare#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.07692307692307665)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Brownea"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Brown_Bear#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Spectacled_Warbler"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Spectacled_Bear#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.0)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Common_Blue"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Common_Bluebell#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.11111111111111072)
+        </measure>
+      </Cell>
+    </map>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Common_sole"></entity1>
+          <entity2 rdf:resource="http://www.bbc.co.uk/nature/species/Harbor_Seal#species"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          Some(0.060606060606060996)
+        </measure>
+      </Cell>
+    </map>
+</Alignment>
+</rdf:RDF>
